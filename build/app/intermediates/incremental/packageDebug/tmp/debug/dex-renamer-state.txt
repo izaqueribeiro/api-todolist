@@ -1,0 +1,4 @@
+#Sun May 07 17:30:31 BRT 2023
+base.0=C\:\\Users\\Izaque\\Flutter_Projetos\\todolist_api\\flutter_application\\flutter_application_task\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
